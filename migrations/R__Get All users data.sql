@@ -1,1 +1,1 @@
-Select Age from users
+Select name, Age from users
